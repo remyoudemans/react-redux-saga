@@ -1,0 +1,1 @@
+This is my attempt to get to grips with the use of react-redux-saga (all in TypeScript) in a very small project, to help me understand how they work in bigger projects.

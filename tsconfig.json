@@ -6,7 +6,8 @@
         "module": "commonjs",
         "target": "es5",
         "jsx": "react",
-        "baseUrl": "./modules"
+        "baseUrl": "./modules",
+        "allowSyntheticDefaultImports": true
     },
     "include": [
         "./src/**/*"

@@ -17,7 +17,7 @@
     "tslint-config-airbnb": "^5.8.0"
   },
   "scripts": {
-    "start": "react-scripts-ts start",
+    "start": "webpack --config webpack.config.js",
     "build": "react-scripts-ts build",
     "test": "jest",
     "eject": "react-scripts-ts eject"

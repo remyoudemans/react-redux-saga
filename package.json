@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start": "webpack --config webpack.config.js",
-    "run": "webpack-dev-server --progress --colors --open",
+    "run": "webpack-dev-server --progress --colors",
     "build": "react-scripts-ts build",
     "test": "jest",
     "eject": "react-scripts-ts eject"
